@@ -79,5 +79,6 @@ This project demonstrates how HTML, CSS, and JavaScript work together to create 
 * HTML Documentation
 * CSS Documentation
 * JavaScript Documentation
+* Research paper:https://www.scribd.com/document/728110942/fin-irjmets1653193454?
 
 ---
